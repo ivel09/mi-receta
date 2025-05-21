@@ -1,8 +1,9 @@
+#comandos basicos de git
 # mi-receta
 # Titulo 1 => h1
 ## Titulo 2 =>  h2
 ### Titulo 3 => h3
-
+ 
 **Texto en negrita**
 
 *Texto en cursiva*
